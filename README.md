@@ -26,8 +26,6 @@ To empower farmers in Lesotho by giving them a digital platform where they can s
 - Consumer Marketplace
 -  Order Tracking
 
-(Replace these placeholders with real screenshots or Figma mockups later — put them in a docs/screenshots/ folder in your repo.)
-
 ## Roadmap
 - Farmer & Consumer registration
 - Product listing
